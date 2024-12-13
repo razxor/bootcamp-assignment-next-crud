@@ -38,7 +38,7 @@ export default function AdminLayout({ children }) {
 
           {/* Footer */}
           <footer className="admin-footer">
-            <p>&copy; {new Date().getFullYear()} Admin Panel. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} All rights reserved. Raz Ahamed, ICT Officer, Gopalganj Sadar, Gopalganj.</p>
           </footer>
         </div>
       </body>
